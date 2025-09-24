@@ -1,4 +1,4 @@
-VietJet Air Database Management System
+# VietJet Air Database Management System
 
 This project designs and implements a relational database system to support the operations of VietJet Air, one of Vietnam’s leading low-cost airlines. The database ensures efficient management of flights, passengers, employees, bookings, and services.
 
